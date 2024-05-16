@@ -1,0 +1,196 @@
+{
+  "main": {
+    "id": "1d9ac93dbec67762",
+    "type": "split",
+    "children": [
+      {
+        "id": "5be9c46fc2a3f5f9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b56b00836e2fc376",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "2024-05-15.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3fd55e6a42ed172",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a246f766a56a2d47",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "0794c61429b03354",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "cbb6152be665d4e0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "b34f56adaa989cc0",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {}
+        }
+      },
+      {
+        "id": "d0ee101359aba317",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          }
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "a46a43fdbf16edcb",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "c196f41e80b6934e",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "2024-05-15.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "b300d26221406ecd",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "2024-05-15.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "46c8a853f03a7ef9",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "2024-05-15.md"
+          }
+        }
+      },
+      {
+        "id": "cc62278b78225e99",
+        "type": "leaf",
+        "state": {
+          "type": "calendar",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "obsidian-textgenerator-plugin:Generate Text!": false,
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+    }
+  },
+  "active": "b56b00836e2fc376",
+  "lastOpenFiles": [
+    "2024-05-16.md",
+    "2024-05-15.md",
+    "Untitled 2.md",
+    "Templater/Daily note template.md",
+    "Todo Vault M5.md",
+    "2024-05-13.md",
+    "2023-09-19.md",
+    "Testtemp.md",
+    "2024-05-14.md",
+    "Templater",
+    "Pasted image 20231005201049.jpg",
+    "Maximum Likelihood Estimate.md",
+    "Maximum a Posteriori Estimator.md",
+    "Minimum Mean Square Estimator.md",
+    "Sophomore Spring/Statistics/Stats.md",
+    "Confidence Interval.md",
+    "Multiple Random Variables Expected Values.md",
+    "Central Limit Theorem.md",
+    "2024-05-11.md",
+    "2024-05-10.md",
+    "2024-05-09.md",
+    "Discussion 9 CS250.md",
+    "Multiple Discrete Random Variables.md",
+    "Multiple Random Variables Variance.md",
+    "Marginal Probability.md",
+    "Expected Values.md",
+    "Conditional pmf.md",
+    "Sophomore Spring/Statistics/Statistics equations.md",
+    "Sophomore Fall/Differential Equations/laplace-table.pdf",
+    "PXL_20240408_223730130.jpg",
+    "Pasted image 20231215164117.png",
+    "Differential Equations/laplace-table.pdf",
+    "Differential Equations/Midterm_Review_3_4.pdf",
+    "20231012_221403.jpg",
+    "20231012_221332.jpg",
+    "20231012_221416.jpg"
+  ]
+}

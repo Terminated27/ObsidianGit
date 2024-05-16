@@ -1,0 +1,195 @@
+\documentclass[12pt]{article}         
+\usepackage{fullpage}
+\usepackage[shortlabels]{enumitem}
+\usepackage{amsmath}
+
+%\usepackage{amsmath}
+%\usepackage{amssymb}
+%\usepackage{enumitem}
+
+\title{250 Homework $\#$1}
+\author{Firstname LastName \footnote{Collaborated with Nobody.}}
+
+\begin{document}
+\maketitle
+
+\section*{\textbf{P1.1.4} [10 pts]}
+Let $C$ be the set $\{0, 1, \ldots, 15\}$. Let $D$ be a subset of $C$ and define the number $f(D)$ as follows – $f(D)$ is the sum, for every element $i$ of $D$, of $2^i$. For example, if $D$ is ${1, 6}$ then $f(D)= 2^1 + 2^6 = 66$.
+
+
+\begin{enumerate}[label=(\alph*)]
+    \item What are $f(\emptyset)$, $f({0, 2, 5})$, and $f(C)$? 
+    
+    \item Is there a $D$ such that $f(D) = 666$? If so, find it. 
+    
+    \item  Explain why, if $D$ and $E$ are any two subsets of $C$ such that $f(D)= f(E)$, then $D = E$.
+\end{enumerate}
+
+
+\subsection*{\textbf{Solution:}}
+\begin{enumerate}[(a)]
+    \item 
+
+    \item test
+
+    \item 
+
+\end{enumerate}
+
+
+\newpage
+\section*{\textbf{P1.2.5} [10 pts]}
+Let the alphabet $C$ be $\{a, b, c\}$. Let the language $X$ be the set of all strings over $C$ with at least two occurrences of $b$. Let $Y$ be the language of all strings over $C$ that never have two occurrences of $c$ in a row. Let $Z$ be the language of all strings over $C$ in which every $c$ is followed by an $a$. (Recall that any string with no $c$’s is thus in $Z$.)
+
+\begin{enumerate}[(a)]
+    \item List the three-letter strings in each of $X$, $Y$, and $Z$. The easiest way to do this may be to first list all 27 strings in $C^3$ and then see which ones meet the given conditions.
+
+    \item List the four-letter strings that are both in $X$ and in $Y$, those that are both in $X$ and in $Z$, those that are both in $Y$ and in $Z$, and those that are in all three sets. How many total strings are in $C^4$?
+
+    \item Are any of $X$, $Y$, or $Z$ subsets of any of the others?
+
+    \item Suppose $u$ and $v$ are two strings in $X$. Do we know that the strings $u^R$, $v^R$, $uv$, and $vu$ are all in $X$? Either explain why this is always true, or give an example where it is not.
+
+    \item Repeat the previous question for the languages $Y$ and $Z$.
+
+\end{enumerate}
+\subsection*{\textbf{Solution:}}
+\begin{enumerate}[(a)]
+    \item 
+
+    \item 
+
+    \item 
+
+    \item 
+
+    \item 
+    
+\end{enumerate}
+
+
+\newpage
+\section*{\textbf{P1.4.10} [10 pts]}
+Letting $p$ denote “mackerel are fish” and $q$ denote “trout live in trees”, translate each of the following four statements into English: $\neg p \rightarrow q$, $\neg (p \rightarrow q)$, $\neg p \leftrightarrow q$, and $\neg(p \leftrightarrow q)$. Are any two of these four statements logically equivalent?
+
+
+\subsection*{\textbf{Solution:}}
+
+
+
+
+\newpage
+\section*{\textbf{P1.5.6} [10 pts]}
+Let $\Sigma$ be the alphabet ${a,b, c, \ldots, z}$ and let $U$ be the set $\Sigma^3$ of three-letter strings with letters from $\Sigma$. Let $X$ be the set of strings in $U$ whose first letter is $c$. Let $Y$ be the set of strings whose second letter is $a$, and let $Z$ be the set of strings whose last letter is $t$. Describe each of the following sets in English, and determine the number of strings in each set.
+
+\begin{enumerate}[(a)]
+\item $X \cap Y$
+\item $X \cap Y \cap Z$
+\item $Y \cup Z$
+\item $X \cap (Y \cup Z)$
+
+\end{enumerate}
+
+\subsection*{\textbf{Solution:}}
+\begin{enumerate}[(a)]
+    \item
+
+    \item
+
+    \item
+
+    \item
+
+\end{enumerate}
+
+
+\newpage
+\section*{\textbf{P1.7.6} [10 pts]}
+Suppose we substitute $a \oplus b$ for $p$ and $a \land b$ for $q$ in the contrapositive rule to get $((a \oplus b) \rightarrow (a \land b)) \leftrightarrow ((\neg a \land b) \rightarrow (\neg a \oplus b))$. Verify that this result is \textit{not} a tautology. Why didn’t our substitution lead to a valid tautology?
+
+
+\subsection*{\textbf{Solution:}}
+
+
+
+\newpage
+
+
+
+\newpage
+\section*{\textbf{P1.8.2} [10 pts]}
+A variant of the Proof By Cases rule is as follows: Given the premises $p \lor q$, $p \rightarrow r$, and $q \rightarrow r$, derive $r$.
+
+
+\subsection*{\textbf{Solution:}}
+
+
+
+
+\newpage
+\section*{\textbf{P1.8.7} [10 pts]}
+Prove that the compound propositions $p \land (q \rightarrow r)$ and $\neg (p \rightarrow (q \land \neg r))$ are equivalent by using the Equivalence and Implication Rule and constructing two deductive sequence proofs.
+
+
+
+\subsection*{\textbf{Solution:}}
+
+
+
+\newpage
+\section*{\textbf{P1.10.6} [12 pts]}
+We can define binary relations on the naturals for each of the five relational operators. Let $LT(x, y)$, $LE(x, y)$, $E(x, y)$, $GE(x, y)$, and $GT(x, y)$ be the predicates with templates $x < y$, $x \leq y$, $x = y$, $x \geq y$, and $x > y$ respectively.
+
+\begin{enumerate}[(a)]
+    \item Show how each of the five predicates can be written using only $LE$ and boolean operators. Use your constructions to rewrite $(LE(a, b) \oplus (E(b, c) \lor GT(c, a)) \rightarrow (LT(c, b) \land GE(a, c))$ in such terms.
+
+    \item Express each of the five predicates using only $LT$ and boolean operators, and rewrite the same compound statement in those terms.
+\end{enumerate}
+
+\subsection*{\textbf{Solution:}}
+\begin{enumerate}[(a)]
+    \item 
+
+    \item
+\end{enumerate}
+
+
+\newpage
+\section*{\textbf{P2.3.9} [12 pts]}
+Let $D$ be a set of dogs and let $T$ be a subset of terriers, so that the predicate $T(x)$ means “dog $x$ is a terrier”. Let $F(x)$ mean “dog $x$ is fierce” and let $S(x, y)$ mean “dog $x$ is smaller than dog $y$”. Write quantified statements for the following, using only variables whose type is $D$:
+
+\begin{enumerate}[(a)]
+    \item There exists a fierce terrier.
+
+    \item All terriers are fierce.
+
+    \item There exists a fierce dog who is smaller than all terriers.
+
+    \item There exists a terrier who is smaller than all fierce dogs, except itself.
+
+\end{enumerate}
+
+
+\subsection*{\textbf{Solution:}}
+\begin{enumerate}[(a)]
+    \item
+
+    \item
+
+    \item
+
+    \item
+
+\end{enumerate}
+
+
+\newpage
+\section*{\textbf{EC: P2.3.7} [10 pts]}
+Let $D$ be a set of dogs, with $R$ being the subset of retrievers, $B$ being the subset of black dogs, and $F$ being the subset of female dogs, with membership predicates $R(x)$, $B(x)$, and $F(x)$ respectively. Suppose that the three statements $\forall x: \exists y: R(x) \oplus R(y), \forall x : \exists y : B(x) \oplus B(y)$, and $\forall x: \exists y: F(x) \oplus F(y)$ are all true. What can you say about the number of dogs in D? Justify your answer.
+
+
+\subsection*{\textbf{Solution:}}
+
+
+
+\end{document} 

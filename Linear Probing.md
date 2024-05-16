@@ -1,0 +1,2 @@
+#prog #info 
+In [[linear probing]], if a [[Hash collisions|collision]] occurs, the algorithm searches for the next available slot linearly, starting from the collided index. If that slot is occupied, it moves to the next one until an empty slot in the [[hash table]] is found.

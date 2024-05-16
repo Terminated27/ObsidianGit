@@ -1,0 +1,4 @@
+#math #diffeq 
+For a given [[Differential Equation]] with an [[initial condition]], the [[interval of validity]] is the range of values of the independent variable at which the solution to the equation is valid for such [[initial condition]].
+
+For example, if you have an [[ODE]] that models the population growth of a species over time, the [[interval of validity]] would indicate the time period during which the model accurately predicts how the population changes. Outside of this interval, the model may not be applicable, and the real-world system might behave differently due to various factors not considered in the [[ODE]].

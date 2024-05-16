@@ -1,0 +1,1 @@
+the type of error where code [[terminate|terminates]] successfully but does not do what you wanted it to do

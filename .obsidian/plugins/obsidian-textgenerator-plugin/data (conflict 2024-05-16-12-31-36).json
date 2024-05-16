@@ -1,0 +1,107 @@
+{
+  "version": "0.7.11",
+  "endpoint": "https://api.openai.com",
+  "models": {},
+  "api_key": "",
+  "encrypt_keys": false,
+  "selectedProvider": "OpenAI Instruct (Langchain)",
+  "max_tokens": 3000,
+  "temperature": 0.4,
+  "frequency_penalty": 0.5,
+  "showStatusBar": true,
+  "outputToBlockQuote": false,
+  "freeCursorOnStreaming": false,
+  "allowJavascriptRun": false,
+  "experiment": false,
+  "promptsPath": "textgenerator/prompts",
+  "textGenPath": "textgenerator/",
+  "prefix": "\n\n",
+  "tgSelectionLimiter": "^\\*\\*\\*",
+  "stream": false,
+  "context": {
+    "includeTitle": true,
+    "includeStaredBlocks": true,
+    "includeFrontmatter": true,
+    "includeHeadings": true,
+    "includeChildren": false,
+    "includeMentions": false,
+    "includeHighlights": true,
+    "includeExtractions": false,
+    "includeClipboard": true
+  },
+  "requestTimeout": 300000,
+  "options": {
+    "generate-text": true,
+    "generate-text-with-metadata": true,
+    "insert-generated-text-From-template": true,
+    "create-generated-text-From-template": false,
+    "insert-text-From-template": false,
+    "create-text-From-template": false,
+    "show-modal-From-template": true,
+    "set_max_tokens": true,
+    "set-model": true,
+    "packageManager": true,
+    "create-template": false,
+    "get-title": true,
+    "generated-text-to-clipboard-From-template": false,
+    "calculate-tokens": true,
+    "calculate-tokens-for-template": true,
+    "modal-suggest": false,
+    "text-extractor-tool": false,
+    "stop-stream": true
+  },
+  "advancedOptions": {
+    "generateTitleInstructEnabled": false,
+    "generateTitleInstruct": "Generate a title for the current document (do not use * \" \\ / < > : | ? .):\n{{substring content 0 255}}"
+  },
+  "autoSuggestOptions": {
+    "customInstructEnabled": false,
+    "customInstruct": "continue the follwing text:\n{{query}}",
+    "isEnabled": true,
+    "allowInNewLine": false,
+    "delay": 300,
+    "numberOfSuggestions": 5,
+    "triggerPhrase": "  ",
+    "stop": ".",
+    "showStatus": true,
+    "customProvider": false,
+    "inlineSuggestions": false,
+    "overrideTrigger": " "
+  },
+  "slashSuggestOptions": {
+    "isEnabled": false,
+    "triggerPhrase": "/"
+  },
+  "extractorsOptions": {
+    "PDFExtractor": true,
+    "WebPageExtractor": true,
+    "YoutubeExtractor": true,
+    "AudioExtractor": false,
+    "ImageExtractorEmbded": true,
+    "ImageExtractor": true
+  },
+  "displayErrorInEditor": false,
+  "LLMProviderProfiles": {},
+  "LLMProviderOptions": {
+    "whisper": {
+      "base_path": "https://api.openai.com/v1"
+    },
+    "OpenAI Chat (Langchain)": {
+      "basePath": "https://api.openai.com/v1",
+      "model": "gpt-3.5-turbo",
+      "api_key": ""
+    },
+    "OpenAI Instruct (Langchain)": {
+      "basePath": "https://api.openai.com/v1",
+      "model": "gpt-3.5-turbo-instruct",
+      "api_key": ""
+    }
+  },
+  "LLMProviderOptionsKeysHashed": {
+    "OpenAI Chat (Langchain).api_key": "__@#key_prefix#@__sk-9rZzxx2qTeHEodEwDCN9T3BlbkFJNf0JPkyiNCWkCaNRkC77",
+    "OpenAI Instruct (Langchain).api_key": "__@#key_prefix#@__sk-proj-nQw4k1GPVTJXyoNWmqEXT3BlbkFJMouL0h1bWy0y4XhAULDX"
+  },
+  "prompt": "",
+  "engine": "gpt-4",
+  "api_key_encrypted": "__@#key_prefix#@__sk-proj-nQw4k1GPVTJXyoNWmqEXT3BlbkFJMouL0h1bWy0y4XhAULDX"
+}

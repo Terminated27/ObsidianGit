@@ -1,0 +1,2 @@
+#math 
+opposite of [[linear]]

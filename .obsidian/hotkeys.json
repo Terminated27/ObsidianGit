@@ -1,0 +1,36 @@
+{
+  "obsidian-textgenerator-plugin:stop-stream": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "editor:delete-paragraph": [],
+  "templater-obsidian:Templater/Daily note template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:open-search": [],
+  "templater-obsidian:Templater/Daily Note Template.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "D"
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+#prog #info 
+[[Quadratic probing]] uses a quadratic function to search for the next slot. If a[[Hash collisions|collision]] occurs at index `i`, the algorithm checks slots at indices `i + 1^2`, `i + 2^2`, `i - 1^2`, `i - 2^2`, and so on until an empty slot is found or the entire [[hash table]] is searched.

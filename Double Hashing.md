@@ -1,0 +1,2 @@
+#info #prog 
+In [[double hashing]], a secondary [[hash function]] is used to calculate the interval between probe sequences. If a collision occurs at index `i`, the algorithm calculates a secondary [[Hash]] value `h2(key)` and probes the next slot at index `(i + h2(key)) % table_size`. This method aims to distribute the keys more uniformly in the [[hash table]].
