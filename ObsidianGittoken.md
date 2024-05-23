@@ -1,0 +1,2 @@
+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
+https://github.com/Terminated27/ObsidianGit.git

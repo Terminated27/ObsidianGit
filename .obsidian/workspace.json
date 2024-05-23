@@ -42,9 +42,21 @@
                 "source": true
               }
             }
+          },
+          {
+            "id": "c37010384813af46",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ObsidianGittoken.md",
+                "mode": "source",
+                "source": true
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -110,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-22.md",
+                "file": "ObsidianGittoken.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-22.md",
+                "file": "ObsidianGittoken.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -150,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-22.md"
+                "file": "ObsidianGittoken.md"
               }
             }
           },
@@ -195,10 +207,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e589d4fbd5e907d1",
+  "active": "c37010384813af46",
   "lastOpenFiles": [
-    "2024-05-16.md",
+    "ObsidianGittoken.md",
     "2024-05-22.md",
+    "2024-05-16.md",
     "2024-05-15.md",
     "Discussion 10 CS250.md",
     "Regular Expressions.md",
@@ -222,7 +235,6 @@
     "Discussion 9 CS250.md",
     "Maximum a Posteriori Estimator.md",
     "Forward Model.md",
-    "Non-Bayesian.md",
     "Astar_progress_animation.gif",
     "AstarExampleEn.gif",
     "Pasted image 20240428180935.png",
