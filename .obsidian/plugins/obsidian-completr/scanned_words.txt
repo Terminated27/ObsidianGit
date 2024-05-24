@@ -2610,6 +2610,9 @@ sodie
 sausage
 sticky
 sweet
+shell
+script
+syncing
 in
 if
 initial
