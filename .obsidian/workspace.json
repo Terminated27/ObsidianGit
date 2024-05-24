@@ -15,7 +15,7 @@
               "state": {
                 "file": "2024-05-15.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -27,7 +27,7 @@
               "state": {
                 "file": "2024-05-16.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -39,7 +39,7 @@
               "state": {
                 "file": "ObsidianGittoken.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           },
@@ -50,8 +50,8 @@
               "type": "markdown",
               "state": {
                 "file": "2024-05-23.md",
-                "mode": "preview",
-                "source": true
+                "mode": "source",
+                "source": false
               }
             }
           }
