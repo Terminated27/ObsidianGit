@@ -1,2 +1,2 @@
-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
+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
 https://github.com/Terminated27/ObsidianGit.git

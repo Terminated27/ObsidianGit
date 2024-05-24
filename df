@@ -1,0 +1,54 @@
+[1mdiff --git a/.obsidian/workspace.json b/.obsidian/workspace.json[m
+[1mindex 55b5f58..a4ec23b 100644[m
+[1m--- a/.obsidian/workspace.json[m
+[1m+++ b/.obsidian/workspace.json[m
+[36m@@ -47,11 +47,10 @@[m
+             "id": "c37010384813af46",[m
+             "type": "leaf",[m
+             "state": {[m
+[31m-              "type": "markdown",[m
+[32m+[m[32m              "type": "diff-view",[m
+               "state": {[m
+[31m-                "file": "ObsidianGittoken.md",[m
+[31m-                "mode": "source",[m
+[31m-                "source": true[m
+[32m+[m[32m                "staged": false,[m
+[32m+[m[32m                "file": "ObsidianGittoken.md"[m
+               }[m
+             }[m
+           }[m
+[36m@@ -122,7 +121,6 @@[m
+             "state": {[m
+               "type": "backlink",[m
+               "state": {[m
+[31m-                "file": "ObsidianGittoken.md",[m
+                 "collapseAll": false,[m
+                 "extraContext": false,[m
+                 "sortOrder": "alphabetical",[m
+[36m@@ -139,7 +137,6 @@[m
+             "state": {[m
+               "type": "outgoing-link",[m
+               "state": {[m
+[31m-                "file": "ObsidianGittoken.md",[m
+                 "linksCollapsed": false,[m
+                 "unlinkedCollapsed": false[m
+               }[m
+[36m@@ -161,9 +158,7 @@[m
+             "type": "leaf",[m
+             "state": {[m
+               "type": "outline",[m
+[31m-              "state": {[m
+[31m-                "file": "ObsidianGittoken.md"[m
+[31m-              }[m
+[32m+[m[32m              "state": {}[m
+             }[m
+           },[m
+           {[m
+[1mdiff --git a/ObsidianGittoken.md b/ObsidianGittoken.md[m
+[1mindex 8c5cb7e..160ee5a 100644[m
+[1m--- a/ObsidianGittoken.md[m
+[1m+++ b/ObsidianGittoken.md[m
+[36m@@ -1,2 +1,2 @@[m
+[31m-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[m
+[32m+[m[32m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[m
+ https://github.com/Terminated27/ObsidianGit.git[m
