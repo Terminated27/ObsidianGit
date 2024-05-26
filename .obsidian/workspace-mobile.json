@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-24.md",
+                "file": "2024-05-25.md",
                 "mode": "source",
                 "source": false
               }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-05-24.md",
+            "file": "2024-05-25.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-05-24.md",
+            "file": "2024-05-25.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-05-24.md"
+            "file": "2024-05-25.md"
           }
         }
       },
@@ -156,8 +156,9 @@
   },
   "active": "b56b00836e2fc376",
   "lastOpenFiles": [
-    "2024-05-23.md",
     "2024-05-24.md",
+    "2024-05-25.md",
+    "2024-05-23.md",
     "2023-09-15.md",
     "2024-05-22.md",
     "2024-05-15.md",
@@ -183,7 +184,6 @@
     "2024-05-09.md",
     "Discussion 9 CS250.md",
     "Multiple Discrete Random Variables.md",
-    "Multiple Random Variables Variance.md",
     "Sophomore Fall/Differential Equations/laplace-table.pdf",
     "PXL_20240408_223730130.jpg",
     "Pasted image 20231215164117.png",
