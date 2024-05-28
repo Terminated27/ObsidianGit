@@ -32,43 +32,19 @@
             }
           },
           {
-            "id": "e589d4fbd5e907d1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ObsidianGittoken.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "60c592f8bc9a3ad8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "2024-05-27.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "7b2a10b9834b318a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tasker Termux Install.md",
+                "file": "NixOs Flake.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -134,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-27.md",
+                "file": "NixOs Flake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-27.md",
+                "file": "NixOs Flake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-27.md"
+                "file": "NixOs Flake.md"
               }
             }
           },
@@ -198,7 +174,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -218,18 +195,21 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "1829a2f2467587f8",
+  "active": "7b2a10b9834b318a",
   "lastOpenFiles": [
-    "2024-05-25.md",
+    "Tasker Termux Install.md",
+    "2024-05-16.md",
+    "Exponential Order.md",
+    "2023-09-14.md",
+    "ObsidianGittoken.md",
     "2024-05-27.md",
+    "NixOs Flake.md",
+    "2024-05-25.md",
     "2024-05-26.md",
     "2024-05-21.md",
     "2024-05-23.md",
     "upsync.sh",
-    "Tasker Termux Install.md",
     "2024-05-15.md",
-    "2024-05-16.md",
-    "ObsidianGittoken.md",
     "2024-05-22.md",
     "df",
     "Discussion 10 CS250.md",
@@ -245,9 +225,6 @@
     "test.md",
     "Untitled 2.md",
     "Sophomore Spring/Statistics/Statistics equations.md",
-    "Untitled 3.md",
-    "Untitled 4.md",
-    "Templater/test template.md",
     "Astar_progress_animation.gif",
     "AstarExampleEn.gif",
     "Pasted image 20240428180935.png",
