@@ -49,7 +49,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-27.md",
                 "mode": "source",
                 "source": false
               }
@@ -134,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-27.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-05-23.md",
+                "file": "2024-05-27.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-05-23.md"
+                "file": "2024-05-27.md"
               }
             }
           },
@@ -198,13 +198,11 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 5
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,11 +218,15 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "active": "60c592f8bc9a3ad8",
+  "active": "1829a2f2467587f8",
   "lastOpenFiles": [
+    "2024-05-25.md",
+    "2024-05-27.md",
+    "2024-05-26.md",
+    "2024-05-21.md",
+    "2024-05-23.md",
     "upsync.sh",
     "Tasker Termux Install.md",
-    "2024-05-23.md",
     "2024-05-15.md",
     "2024-05-16.md",
     "ObsidianGittoken.md",
@@ -246,9 +248,6 @@
     "Untitled 3.md",
     "Untitled 4.md",
     "Templater/test template.md",
-    "Deterministic Finite Automaton.md",
-    "Sophomore Spring/Intro to Computation/IntroComp.md",
-    "Sophomore Fall/Computational Tools/Lecture 1.md",
     "Astar_progress_animation.gif",
     "AstarExampleEn.gif",
     "Pasted image 20240428180935.png",
@@ -267,7 +266,6 @@
     "Sophomore Fall/Circuits and electronics/desktop.ini",
     "Sophomore Fall/Differential Equations/desktop.ini",
     "Sophomore Fall/Advanced programming/desktop.ini",
-    "Sophomore Fall/Computational Tools/desktop.ini",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
