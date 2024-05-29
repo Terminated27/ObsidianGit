@@ -11,6 +11,10 @@ tags: journal
  due on <% tp.date.now() %>
  ```
 
+### checklist
+
+[[Daily Tasks]]
+
  ```tasks
  done on <% tp.date.now() %>
  ```
@@ -61,5 +65,7 @@ tags: journal
  sort by urgency
  sort by priority
  ```
+
+### tasks created today
 
 <% await tp.file.rename(tp.date.now()) %>

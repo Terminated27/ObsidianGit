@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-05-27.md",
-                "mode": "source",
-                "source": false
+                "file": "Daily Tasks.md",
+                "mode": "preview",
+                "source": true
               }
             }
           }
@@ -97,7 +97,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "2024-05-27.md",
+            "file": "Daily Tasks.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -114,7 +114,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "2024-05-27.md",
+            "file": "Daily Tasks.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -126,7 +126,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "2024-05-27.md"
+            "file": "Daily Tasks.md"
           }
         }
       },
@@ -156,10 +156,14 @@
   },
   "active": "b56b00836e2fc376",
   "lastOpenFiles": [
+    "Templater/Daily Note Template.md",
+    "Daily Tasks.md",
+    "2024-05-29.md",
+    "2024-05-28.md",
+    "2024-05-27.md",
     "2024-05-26.md",
     "2024-05-22.md",
     "2024-05-21.md",
-    "2024-05-27.md",
     "2024-05-25.md",
     "2024-05-24.md",
     "2024-05-23.md",
@@ -180,10 +184,6 @@
     "Minimum Mean Square Estimator.md",
     "Sophomore Spring/Statistics/Stats.md",
     "Confidence Interval.md",
-    "Multiple Random Variables Expected Values.md",
-    "Central Limit Theorem.md",
-    "2024-05-11.md",
-    "2024-05-10.md",
     "Sophomore Fall/Differential Equations/laplace-table.pdf",
     "PXL_20240408_223730130.jpg",
     "Pasted image 20231215164117.png",
