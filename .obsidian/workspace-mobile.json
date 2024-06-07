@@ -15,7 +15,7 @@
               "state": {
                 "file": "2024-06-06.md",
                 "mode": "source",
-                "source": true
+                "source": false
               }
             }
           }
@@ -156,14 +156,14 @@
   },
   "active": "b56b00836e2fc376",
   "lastOpenFiles": [
-    "2024-06-04.md",
+    "2024-05-29.md",
     "2024-06-06.md",
+    "2024-06-04.md",
     "2024-06-03.md",
     "2024-05-31.md",
     "2024-06-01.md",
     "2024-06-02.md",
     "2024-05-30.md",
-    "2024-05-29.md",
     "Daily Tasks.md",
     "Templater/Daily Note Template.md",
     "2024-05-28.md",
